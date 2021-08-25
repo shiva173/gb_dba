@@ -8,4 +8,4 @@
 
 3) Если в IT, то какой у вас опыт (инструменты, технологии, языки программирования)?
 
-Teamcity, bash, сети, python. docker, ansible, основы kubernetes, apache2, nginx, mariadb, mysql, ненмного postgresql
+Teamcity, linux, bash, сети, python. docker, ansible, основы kubernetes, apache2, nginx, mariadb, mysql, ненмного postgresql
